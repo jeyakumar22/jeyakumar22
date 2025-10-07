@@ -6,7 +6,6 @@ I'm a **Java Backend Developer** passionate about building scalable applications
 ### 💼 Current Focus
 - 🔭 Working as a Java Developer
 - 🌱 Learning **Spring Boot, Microservices & DSA**
-- 🎯 Goal: Software Engineer at top tech companies
 - 💡 Building projects that solve real-world problems
 
 ## 🛠️ Tech Stack
