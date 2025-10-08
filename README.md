@@ -24,11 +24,7 @@ I'm a **Java Backend Developer** passionate about building scalable applications
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
 
-![Jeyakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyakumar22&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyakumar22&layout=compact&theme=radical)
 
 ## 🔥 Featured Projects
 
@@ -67,7 +63,7 @@ Complete library management system with CRUD operations
 - [ ] Build 3 production-ready full-stack projects with Spring Boot
 - [ ] Master Java Backend Development & Microservices
 - [ ] Contribute to open-source projects
-- [ ] Clear interviews at top product companies
+
 
 ## 📫 Connect with Me
 
