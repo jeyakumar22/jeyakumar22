@@ -54,10 +54,6 @@ Complete library management system with CRUD operations
 - **Tech:** JavaScript
 - **Features:** Add, update, delete, search books, local storage integration
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeyakumar22&theme=github-compact)
-
 ## 🎯 2025 Goals
 - [ ] Solve 300+ DSA problems on LeetCode
 - [ ] Build 3 production-ready full-stack projects with Spring Boot
