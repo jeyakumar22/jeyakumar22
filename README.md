@@ -1,7 +1,7 @@
 # Hi there, I'm Jeyakumar M 👋
 
 ## 🚀 About Me
-I'm a **Java Backend Developer** passionate about building scalable applications and solving complex problems. Currently working on mastering **Data Structures & Algorithms** and **System Design** to crack top product-based companies.
+I'm a **Java Backend Developer** passionate about building scalable applications and solving complex problems. Currently working on mastering **Data Structures & Algorithms** and **System Design** .
 
 ### 💼 Current Focus
 - 🔭 Working as a Java Developer
